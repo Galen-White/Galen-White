@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey all! My name is Galen White and I am a new software developer! Excited to learn more with everyone!
 
 <!--
 **Galen-White/Galen-White** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
